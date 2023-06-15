@@ -1,0 +1,5 @@
+contador: onda quadrada; amp 2.5; offset 2.5 ; 25k Hz
+
+entrada: onda quadrada; amp 2.5; offset 2.5 ; 100 Hz
+
+clock: onda quadrada; amp 2.5; offset 2.5 ; 1k Hz
